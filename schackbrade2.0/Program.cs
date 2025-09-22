@@ -1,4 +1,4 @@
-﻿namespace schackbrade2.0
+﻿namespace schackbrade
 {
     internal class Program
     {
